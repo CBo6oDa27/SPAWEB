@@ -1,0 +1,14 @@
+Django==5.0.6
+djangorestframework==3.15.2
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+djangorestframework-simplejwt
+celery
+redis
+django-celery-beat
+requests
+pillow
+django-filter
+django-cors-headers
+drf-yasg
+setuptools
